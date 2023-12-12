@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ### Main studies:
 - Le Wagon Lisbon: Data Science & AI bootcamp | Sep  - Dec 2023
 - Bachelor of Science in Statistics and Mathematical Models for Economics at the Technical University of Vienna | graduated Sep 2023
+### Most recent project:
+- ⚔️ [Game of Thrones Survival](https://github.com/franziskasteger/game-of-thrones-survival)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
