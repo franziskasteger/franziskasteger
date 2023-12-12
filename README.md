@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Franziska!</h1>
 <h3 align="center">A passionate data scientist from Italy</h3>
 
+### Main studies:
+- Le Wagon Lisbon: Data Science & AI bootcamp | Sep  - Dec 2023
+- Bachelor of Science in Statistics and Mathematical Models for Economics at the Technical University of Vienna | graduated Sep 2023
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/franziska-steger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franziska-steger" height="30" width="40" /></a>
